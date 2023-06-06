@@ -5,7 +5,7 @@
 * 
 *  Name: Rishi Goyal Student ID: 163430218 Date: 4 June,2023
 *
-*  Cyclic Web App URL: ________________________________________________________
+*  Cyclic Web App URL:  https://angry-puce-pleat.cyclic.app
 *
 *  GitHub Repository URL: https://github.com/rishixgoyal/Assignment-2.git
 *
