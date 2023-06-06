@@ -1,0 +1,15 @@
+{
+  "name": "002-assignment_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "blog-service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Rishi Goyal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
